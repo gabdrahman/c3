@@ -20,4 +20,4 @@
 
 # 987654321 #
 
-# Thanks for your attention!
+# Спасибо за внимание!!!
